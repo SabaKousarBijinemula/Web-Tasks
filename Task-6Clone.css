@@ -1,0 +1,76 @@
+body{
+      display: flex;
+      height: 10px;
+      background-color:rgb(231, 189, 241) ;
+}
+.box{
+    margin-top: 5px;
+    border: 2px solid red;
+    margin-left: 500px;
+    margin-right: 200px;
+    background-image:linear-gradient(#fdfafa 60%, #c1c1c1  40%);
+    width: 700px;
+    height: 350px;
+    align-items: center;
+    float: right;
+   }
+#top{
+  font-family: cursive;
+
+background-color: 30% azure;
+
+}
+#bottom{
+    background-color: 70% rgb(106, 105, 105); 
+    
+}
+.links{
+       height:50px;
+}
+#l1{
+    height: 8px;
+}
+#l2{
+    height: 8px;
+}
+#bt{
+    bottom:2px;
+    height:10px;
+    font-size:5px;
+}
+#lk1{
+    font-size: 12px ;
+    color: rgb(125, 3, 185);
+    right:460px;
+}
+#lk2{
+    font-size: 12px ;
+    color: rgb(125, 3, 185);
+    right:680px;
+}
+#lk3{
+    font-size: 12px ;
+    color: rgb(125, 3, 185);
+    right:460px;
+}
+#lk4{
+    font-size: 12px ;
+    color: rgb(125, 3, 185);
+    right:200px;
+}
+#lk5{
+    font-size: 12px ;
+    color: rgb(125, 3, 185);
+    right:600px;
+}
+#lk6{
+    font-size: 12px ;
+    color: rgb(125, 3, 185);
+    right:300px;
+  
+}
+#lk7{
+    font-size: 12px ;
+    color: rgb(125, 3, 185);
+    right:460px;
+}
